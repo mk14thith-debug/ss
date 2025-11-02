@@ -1,0 +1,8 @@
+D:\C#\bt3buoi3\obj\Debug\bt3buoi3.csproj.AssemblyReference.cache
+D:\C#\bt3buoi3\obj\Debug\bt3buoi3.csproj.CoreCompileInputs.cache
+D:\C#\bt3buoi3\bin\Debug\bt3buoi3.exe.config
+D:\C#\bt3buoi3\bin\Debug\bt3buoi3.exe
+D:\C#\bt3buoi3\bin\Debug\bt3buoi3.pdb
+D:\C#\bt3buoi3\obj\Debug\bt3buoi3.exe
+D:\C#\bt3buoi3\obj\Debug\bt3buoi3.pdb
+D:\C#\bt3buoi3\obj\Debug\bt3buoi3.exe.config
